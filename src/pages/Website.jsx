@@ -22,5 +22,4 @@ const Website = () => {
   </div>
   )
 }
-
 export default Website
